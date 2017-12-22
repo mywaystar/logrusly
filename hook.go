@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/segmentio/go-loggly"
+	"github.com/Kelindar/go-loggly"
 )
 
 // LogglyHook to send logs to the Loggly service.
